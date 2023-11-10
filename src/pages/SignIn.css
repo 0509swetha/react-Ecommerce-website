@@ -1,0 +1,80 @@
+.SignIn{
+  align-items: -100;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.login-wrapper {
+  padding: 5%;
+  align-items: -100;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container-xxl {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  width: 100%;
+}
+
+.card-body {
+  padding: 5%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.form-label {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.alert-danger {
+  color: #721c24;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.form-link {
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.d-grid {
+  display: grid;
+  gap: 2;
+}
+
+.button {
+  width: 100%;
+}
